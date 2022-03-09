@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/flashs-npcs.toml"
+hash = "bdd4d71d29c77ca6b69241091b80af340777a3c465912836a3beadf635474394"
+metafile = true

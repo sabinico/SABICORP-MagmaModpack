@@ -1,0 +1,13 @@
+name = "SABICORP-MagmaModpack-dev"
+author = "Sabinico"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4712fd84859f90ac97ae238d452a53eebe652ebbe2679d17e044437cfbbcc743"
+
+[versions]
+forge = "36.2.27"
+minecraft = "1.16.5"
